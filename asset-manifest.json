@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2a6bcc2c.css",
+    "main.js": "/static/js/main.2c9fc19b.js",
+    "static/css/64.ae9f0378.chunk.css": "/static/css/64.ae9f0378.chunk.css",
+    "static/js/64.dd7d46f5.chunk.js": "/static/js/64.dd7d46f5.chunk.js",
+    "static/css/769.7c66636a.chunk.css": "/static/css/769.7c66636a.chunk.css",
+    "static/js/769.50eab602.chunk.js": "/static/js/769.50eab602.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/ive-white-logo.png": "/static/media/ive-white-logo.863530df94f28ef06592.png",
+    "static/media/ouhk-white-logo.png": "/static/media/ouhk-white-logo.0683d6176cecae942040.png",
+    "static/media/ocbc-mobile-banking-logo.png": "/static/media/ocbc-mobile-banking-logo.22d8dbf95c8c31fceb19.png",
+    "static/media/greeting-section-image.svg": "/static/media/greeting-section-image.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/hknetea-logo.png": "/static/media/hknetea-logo.1a6dd8695cb6c904de98.png",
+    "static/media/hkt-logo.png": "/static/media/hkt-logo.44a3c40256a2f5b36c69.png",
+    "static/media/contact-section-image.svg": "/static/media/contact-section-image.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/ibm-logo.png": "/static/media/ibm-logo.4515d9c0a5eabe7653bf.png",
+    "static/media/ive-ia-logo.png": "/static/media/ive-ia-logo.8541a8d5c94d40b942cf.png",
+    "static/media/ico-logo.png": "/static/media/ico-logo.9c97790b02cdb8ad36d0.png",
+    "static/media/bea-mall-logo.png": "/static/media/bea-mall-logo.f7cac54edb72faac6e89.png",
+    "static/media/smartone-solution-logo.png": "/static/media/smartone-solution-logo.9d12ae169ee3c67386c0.png",
+    "static/media/skills-section-image.svg": "/static/media/skills-section-image.6a619dfb02feb8d00a1126b2f8347a74.svg",
+    "index.html": "/index.html",
+    "static/media/talks-card-background.svg": "/static/media/talks-card-background.73ed1545d58273ba64b0.svg",
+    "main.2a6bcc2c.css.map": "/static/css/main.2a6bcc2c.css.map",
+    "main.2c9fc19b.js.map": "/static/js/main.2c9fc19b.js.map",
+    "64.ae9f0378.chunk.css.map": "/static/css/64.ae9f0378.chunk.css.map",
+    "64.dd7d46f5.chunk.js.map": "/static/js/64.dd7d46f5.chunk.js.map",
+    "769.7c66636a.chunk.css.map": "/static/css/769.7c66636a.chunk.css.map",
+    "769.50eab602.chunk.js.map": "/static/js/769.50eab602.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a6bcc2c.css",
+    "static/js/main.2c9fc19b.js"
+  ]
+}
