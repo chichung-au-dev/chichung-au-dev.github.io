@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.2a6bcc2c.css",
-    "main.js": "/static/js/main.d4df70dd.js",
-    "static/css/64.8c16561c.chunk.css": "/static/css/64.8c16561c.chunk.css",
-    "static/js/64.103691ba.chunk.js": "/static/js/64.103691ba.chunk.js",
+    "main.css": "/static/css/main.66131521.css",
+    "main.js": "/static/js/main.e83f38bf.js",
+    "static/css/141.ba272b66.chunk.css": "/static/css/141.ba272b66.chunk.css",
+    "static/js/141.5f1f4719.chunk.js": "/static/js/141.5f1f4719.chunk.js",
     "static/css/769.7c66636a.chunk.css": "/static/css/769.7c66636a.chunk.css",
     "static/js/769.50eab602.chunk.js": "/static/js/769.50eab602.chunk.js",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
@@ -23,12 +23,12 @@
     "static/media/skills-section-image.svg": "/static/media/skills-section-image.6a619dfb02feb8d00a1126b2f8347a74.svg",
     "index.html": "/index.html",
     "static/media/talks-card-background.svg": "/static/media/talks-card-background.73ed1545d58273ba64b0.svg",
-    "main.2a6bcc2c.css.map": "/static/css/main.2a6bcc2c.css.map",
-    "main.d4df70dd.js.map": "/static/js/main.d4df70dd.js.map",
-    "64.8c16561c.chunk.css.map": "/static/css/64.8c16561c.chunk.css.map",
-    "64.103691ba.chunk.js.map": "/static/js/64.103691ba.chunk.js.map",
+    "main.66131521.css.map": "/static/css/main.66131521.css.map",
+    "main.e83f38bf.js.map": "/static/js/main.e83f38bf.js.map",
+    "141.ba272b66.chunk.css.map": "/static/css/141.ba272b66.chunk.css.map",
+    "141.5f1f4719.chunk.js.map": "/static/js/141.5f1f4719.chunk.js.map",
     "769.7c66636a.chunk.css.map": "/static/css/769.7c66636a.chunk.css.map",
     "769.50eab602.chunk.js.map": "/static/js/769.50eab602.chunk.js.map"
   },
-  "entrypoints": ["static/css/main.2a6bcc2c.css", "static/js/main.d4df70dd.js"]
+  "entrypoints": ["static/css/main.66131521.css", "static/js/main.e83f38bf.js"]
 }

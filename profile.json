@@ -6,18 +6,30 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/101531582?u=77491bfb9cb76a97076664da73fff470d48c8b11&v=4",
       "location": "Hong Kong",
       "pinnedItems": {
-        "totalCount": 1,
+        "totalCount": 2,
         "edges": [
           {
             "node": {
-              "name": "chichung-au-dev",
-              "description": "Config files for my GitHub profile.",
+              "name": "chichung-au-dev.github.io",
+              "description": "GitHub Pages",
               "forkCount": 0,
               "stargazers": {"totalCount": 0},
-              "url": "https://github.com/chichung-au-dev/chichung-au-dev",
-              "id": "R_kgDOG_xUnA",
-              "diskUsage": 1026,
-              "primaryLanguage": null
+              "url": "https://github.com/chichung-au-dev/chichung-au-dev.github.io",
+              "id": "R_kgDOKcq5kw",
+              "diskUsage": 2580,
+              "primaryLanguage": {"name": "JavaScript", "color": "#f1e05a"}
+            }
+          },
+          {
+            "node": {
+              "name": "vcard-personal-portfolio",
+              "description": "vCard portfolio website for github.io",
+              "forkCount": 0,
+              "stargazers": {"totalCount": 0},
+              "url": "https://github.com/chichung-au-dev/vcard-personal-portfolio",
+              "id": "R_kgDOK21Akg",
+              "diskUsage": 1377,
+              "primaryLanguage": {"name": "HTML", "color": "#e34c26"}
             }
           }
         ]
