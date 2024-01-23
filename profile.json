@@ -2,9 +2,9 @@
   "data": {
     "user": {
       "name": "ChiChung Au",
-      "bio": "Try to get more hand-on experience. #Hong Kong #United Kingdom",
+      "bio": "Try to get more hand-on experience. #Hong Kong #United Kingdom | Full Stack Developer",
       "avatarUrl": "https://avatars.githubusercontent.com/u/101531582?u=77491bfb9cb76a97076664da73fff470d48c8b11&v=4",
-      "location": "Hong Kong",
+      "location": " United Kingdom, England, Manchester",
       "pinnedItems": {
         "totalCount": 2,
         "edges": [
@@ -16,7 +16,7 @@
               "stargazers": {"totalCount": 0},
               "url": "https://github.com/chichung-au-dev/chichung-au-dev.github.io",
               "id": "R_kgDOKcq5kw",
-              "diskUsage": 2580,
+              "diskUsage": 3507,
               "primaryLanguage": {"name": "JavaScript", "color": "#f1e05a"}
             }
           },
