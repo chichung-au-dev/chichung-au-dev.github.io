@@ -1,0 +1,8 @@
+:HL["/_next/static/chunks/2h2ky1a3e_8j9.css","style"]
+:HL["/_next/static/chunks/1-hoaf_mwjj1a.css","style"]
+:HL["/_next/static/media/Agustina-s.p.0i7i0f9nbfpd5.woff","font",{"crossOrigin":"","type":"font/woff"}]
+:HL["/_next/static/media/Agustina-s.p.1tu6p8d4mm598.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/Montserrat_Regular-s.p.2pd8xj29-n0_9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://cdn.jsdelivr.net/gh/FortAwesome/Font-Awesome@7.2.0/css/all.min.css","style"]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"B5X7YRXL-F27Xev282iYU","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
